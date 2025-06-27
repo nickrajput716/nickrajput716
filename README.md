@@ -1,21 +1,19 @@
 # 💫 About Me:
 🔭 I’m currently working on <br>
-An NLP project using models like BERT and GPT, while refining past projects like CT-FARMA and Cobra KBC.
+   An NLP project using models like BERT and GPT.
 <br>👯 I’m looking to collaborate on <br>
-AI tools, full-stack apps, or anything that solves real-world problems in health, education, or agriculture.
+   Tools, full-stack apps, or anything that solves real-world problems in health, education .
 <br>🤝 I’m looking for help with <br>
-Large datasets, ML deployment, backend scaling — and always up for hackathons or open-source collabs.
+   Large datasets, ML deployment, backend scaling — and always up for hackathons or open-source collabs.
 <br>🌱 I’m currently learning <br>
-Advanced data science, MLOps, React optimization, and simulation systems.
+   Advanced data science, MLOps, React optimization, and simulation systems.
 <br>💬 Ask me about <br>
-• Python quiz apps with lifelines <br>
-• Real-time crop/weather dashboards <br>
-• Flask + OpenCV plant disease detection <br>
-• Multi-step forms and frontend/backend workflows
-
+  • Python quiz apps with lifelines <br>
+  • Real-time crop/weather dashboards <br>
+  • Flask + OpenCV plant disease detection <br>
+  • Multi-step forms and frontend/backend workflows
 <br>⚡ Fun fact <br>
-Built a farming AI site with real-time APIs and a chatbot that sometimes sounds smarter than me.
-
+  Built a farming AI site with real-time APIs and a chatbot that sometimes sounds smarter than me.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19J88betEw/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rananikhil?igsh=MTlrdzZ6MnZwa3h4OA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-rana-59742a291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/callmenick716?t=UkjgUh0amXXL6Ig_9UM0hA&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nickrajput716@gmail.com) 
