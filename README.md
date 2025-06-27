@@ -1,18 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>
+🔭 I’m currently working on :  
    An NLP project using models like BERT and GPT.
-<br>👯 I’m looking to collaborate on <br>
+<br>👯 I’m looking to collaborate on :  
    Tools, full-stack apps, or anything that solves real-world problems in health, education .
-<br>🤝 I’m looking for help with <br>
+<br>🤝 I’m looking for help with :  
    Large datasets, ML deployment, backend scaling — and always up for hackathons or open-source collabs.
-<br>🌱 I’m currently learning <br>
+<br>🌱 I’m currently learning :  
    Advanced data science, MLOps, React optimization, and simulation systems.
 <br>💬 Ask me about <br>
   • Python quiz apps with lifelines <br>
   • Real-time crop/weather dashboards <br>
   • Flask + OpenCV plant disease detection <br>
   • Multi-step forms and frontend/backend workflows
-<br>⚡ Fun fact <br>
+<br>⚡ Fun fact :  
   Built a farming AI site with real-time APIs and a chatbot that sometimes sounds smarter than me.
 
 ## 🌐 Socials:
