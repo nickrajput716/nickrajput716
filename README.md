@@ -1,5 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>An NLP-based project using state-of-the-art language models (BERT, GPT, etc.) to build something smart, context-aware, and actually useful — not just another chatbot. At the same time, I’m constantly tweaking my older projects like **CT-FARMA** and **Cobra KBC**, learning from every bug I (accidentally) introduce.<br><br>👯 I’m looking to collaborate on  <br>Projects that solve **real-world problems** — from AI-powered tools to frontend-heavy apps or full-stack systems. Whether it’s using ML to detect plant diseases or designing an intuitive finance dashboard for farmers, I’m all in for anything innovative, practical, and fun to build.<br><br>🤝 I’m looking for help with  <br>Taming large datasets, deploying scalable ML models, and setting up robust backend systems. Also happy to pair up on hackathons or open-source work, especially when there’s coffee involved ☕<br><br>🌱 I’m currently learning  <br>The deeper side of **data science** — model interpretability, unsupervised learning, simulation systems, and how to make sense of “dirty” data. Also exploring a bit of **MLOps**, **Docker**, and **React performance optimization**.<br><br>💬 Ask me about  <br>• How I made a KBC-style quiz with lifelines using Python  <br>• Building real-time crop price & weather apps  <br>• Using OpenCV + Flask to detect plant diseases  <br>• Managing multi-step form logic and data pipelines in web projects  <br>• Anything about frontend/backend workflows — I’ve probably broken it before 😄<br><br>⚡ Fun fact  <br>I once combined farming and AI in a single website, made it work with real-time APIs, and even gave it a chatbot that sounds smarter than me. I call that a win.<br>
+🔭 I’m currently working on <br>
+An NLP project using models like BERT and GPT, while refining past projects like CT-FARMA and Cobra KBC.
+
+<br>👯 I’m looking to collaborate on <br>
+AI tools, full-stack apps, or anything that solves real-world problems in health, education, or agriculture.
+
+<br>🤝 I’m looking for help with <br>
+Large datasets, ML deployment, backend scaling — and always up for hackathons or open-source collabs.
+
+<br>🌱 I’m currently learning <br>
+Advanced data science, MLOps, React optimization, and simulation systems.
+
+<br>💬 Ask me about <br>
+• Python quiz apps with lifelines <br>
+• Real-time crop/weather dashboards <br>
+• Flask + OpenCV plant disease detection <br>
+• Multi-step forms and frontend/backend workflows
+
+<br>⚡ Fun fact <br>
+Built a farming AI site with real-time APIs and a chatbot that sometimes sounds smarter than me.
 
 
 ## 🌐 Socials:
