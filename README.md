@@ -4,9 +4,7 @@
 <br>🤝 I’m looking for help with :  Large datasets, ML deployment, backend scaling — and always up for hackathons or open-source collabs.
 <br>🌱 I’m currently learning :  Advanced data science, MLOps, React optimization, and simulation systems.
 <br>💬 Ask me about <br>
-  • Python quiz apps with lifelines <br>
-  • Real-time crop/weather dashboards <br>
-  • Flask + OpenCV plant disease detection <br>
+  • Building AI-powered web apps with real-time data <br>
   • Multi-step forms and frontend/backend workflows
 <br>⚡ Fun fact :  Built a farming AI site with real-time APIs and a chatbot that sometimes sounds smarter than me.
 
