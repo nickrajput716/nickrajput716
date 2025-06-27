@@ -1,16 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on <br>
 An NLP project using models like BERT and GPT, while refining past projects like CT-FARMA and Cobra KBC.
-
 <br>👯 I’m looking to collaborate on <br>
 AI tools, full-stack apps, or anything that solves real-world problems in health, education, or agriculture.
-
 <br>🤝 I’m looking for help with <br>
 Large datasets, ML deployment, backend scaling — and always up for hackathons or open-source collabs.
-
 <br>🌱 I’m currently learning <br>
 Advanced data science, MLOps, React optimization, and simulation systems.
-
 <br>💬 Ask me about <br>
 • Python quiz apps with lifelines <br>
 • Real-time crop/weather dashboards <br>
